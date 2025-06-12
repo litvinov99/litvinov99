@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+## 💼 О себе
+
+## 🧰 Технологии и инструменты
+
+## 📌 Проекты
+
+## 📫 Контакты
+email: litvinovkirand@mail.ru
+telegram: @litvinov59
+
 <!--
 **litvinov99/litvinov99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
