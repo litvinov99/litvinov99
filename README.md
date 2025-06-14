@@ -9,7 +9,7 @@
 - Сборка и компиляторы: CMake, g++, MSVC
 - Инструменты: Git, GitHub Actions, Valgrind, AddressSanitizer
 - Тестирование: Google Test
-- Подходы: RAII, умные указатели
+- Подходы: ООП, RAII, templates, move-семантика, perfect forwarding, exception handling
 
 ## 📌 Проекты
 
