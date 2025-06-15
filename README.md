@@ -26,15 +26,16 @@ junior С++-разработчик имею опыт разработки кон
 ## 📌 Проекты
 - [test runner](https://github.com/litvinov99/mini-projects/tree/main/test%20runner) - мини-фреймворк для юнит-тестирования на C++
 (макросы для удобного API, SFINAE-подобный подход, exception handling, RAII и деструктор для контроля завершения)
+- [Библиотека работы с изображениями (C++17)](https://github.com/litvinov99/mini-projects/tree/main/image%20converter) - библиотека для загрузки, сохранения и конвертации растровых изображений с поддержкой форматов JPEG, PPM и BMP
+- [JSON/XML-file reader](https://github.com/litvinov99/mini-projects/tree/main/simple%20JSON%2C%20XML-file%20reader), 
+[INI-file reader](https://github.com/litvinov99/mini-projects/tree/main/simple%20INI-file%20reader) - парсеры конфигурационных файлов, реализованный без сторонних библиотек
+- [search system](https://github.com/litvinov99/mini-projects/tree/main/search%20server), 
+[search system lite](https://github.com/litvinov99/mini-projects/tree/main/search%20server%20lite) - модели индексирования и поиска с ранжированием TF-IDF в текстах с фильтрацией по предикатам, поддержкой минус-словами, статусами и кастомными рейтингами
 - [stack_vector](https://github.com/litvinov99/mini-projects/blob/main/stack%20vector/stack_vector.h "реализация ограниченного вектора без динамического выделения памяти"), 
 [vector with smart pointers](https://github.com/litvinov99/mini-projects/blob/main/simple%20vector%20more%20complicated%20version/raw_memory.h), 
 [single linked list](https://github.com/litvinov99/mini-projects/blob/main/single%20linked%20list/single-linked-list.h), 
 [hash map](https://github.com/litvinov99/mini-projects/blob/main/hash%20table%20class/main.cpp) - упрощенные реализации классических структур данных
 (API совместимое с STL, шаблонное программирование, RAII и безопасное поведение, exception handling)
-- [JSON/XML-file reader](https://github.com/litvinov99/mini-projects/tree/main/simple%20JSON%2C%20XML-file%20reader), 
-[INI-file reader](https://github.com/litvinov99/mini-projects/tree/main/simple%20INI-file%20reader) - парсеры конфигурационных файлов, реализованный без сторонних библиотек
-- [search system](https://github.com/litvinov99/mini-projects/tree/main/search%20server), 
-[search system lite](https://github.com/litvinov99/mini-projects/tree/main/search%20server%20lite) - модели индексирования и поиска с ранжированием TF-IDF в текстах с фильтрацией по предикатам, поддержкой минус-словами, статусами и кастомными рейтингами
 - [остальные проекты с описанием](https://github.com/litvinov99/mini-projects)
 
 ## 📫 Контакты
