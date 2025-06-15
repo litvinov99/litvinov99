@@ -26,7 +26,7 @@ junior С++-разработчик имею опыт разработки кон
 ## 📌 Проекты
 - [test runner](https://github.com/litvinov99/mini-projects/tree/main/test%20runner) - мини-фреймворк для юнит-тестирования на C++
 (макросы для удобного API, SFINAE-подобный подход, exception handling, RAII и деструктор для контроля завершения)
-- [Библиотека работы с изображениями (C++17)](https://github.com/litvinov99/mini-projects/tree/main/image%20converter) - библиотека для загрузки, сохранения и конвертации растровых изображений с поддержкой форматов JPEG, PPM и BMP
+- [image converter](https://github.com/litvinov99/mini-projects/tree/main/image%20converter) - библиотека для загрузки, сохранения и конвертации растровых изображений с поддержкой форматов JPEG, PPM и BMP
 - [JSON/XML-file reader](https://github.com/litvinov99/mini-projects/tree/main/simple%20JSON%2C%20XML-file%20reader), 
 [INI-file reader](https://github.com/litvinov99/mini-projects/tree/main/simple%20INI-file%20reader) - парсеры конфигурационных файлов, реализованный без сторонних библиотек
 - [search system](https://github.com/litvinov99/mini-projects/tree/main/search%20server), 
