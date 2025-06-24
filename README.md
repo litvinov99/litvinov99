@@ -20,7 +20,7 @@ junior С++-разработчик имею опыт разработки кон
 - Библиотеки и фреймворки: Standard Library + STL, Boost, Google Test
 - Сборка и компиляторы: CMake, g++, MSVC
 - Инструменты: Git, GitHub Actions, Valgrind, AddressSanitizer
-- Тестирование: Google Test
+- Тестирование: gtest
 - Подходы: ООП, SOLID, RAII, Templates, move-семантика, perfect forwarding, exception handling
 
 ## 📌 Проекты
