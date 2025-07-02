@@ -22,7 +22,7 @@ junior С++-разработчик имею опыт разработки кон
 - Сборка и компиляторы: CMake, g++, MSVC
 - Инструменты: Git, GitHub Actions, Valgrind, AddressSanitizer
 - Тестирование: gtest/gmock
-- Подходы: ООП, SOLID, RAII, Templates, move-семантика, perfect forwarding, exception handling
+- Подходы: ООП, SOLID, RAII, Templates, многопоточность, move-семантика, perfect forwarding, exception handling
 
 ## 📌 Проекты
 - [test runner](https://github.com/litvinov99/mini-projects/tree/main/test%20runner) - мини-фреймворк для юнит-тестирования на C++
