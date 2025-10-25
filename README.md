@@ -32,7 +32,7 @@
 - [ExploitDB monitor](https://github.com/litvinov99/exploitdb-monitor) - компонент для мониторинга новых уязвимостей из Exploit Database, использует userver framework
 - [Test runner](https://github.com/litvinov99/mini-projects/tree/main/test%20runner) - мини-фреймворк для юнит-тестирования
 - [Search system](https://github.com/litvinov99/mini-projects/tree/main/search%20server), 
-  Search system Lite](https://github.com/litvinov99/mini-projects/tree/main/search%20server%20lite) - модели индексирования и поиска с ранжированием TF-IDF в текстах с фильтрацией по предикатам, поддержкой минус-словами, статусами и кастомными рейтингами
+  [Search system Lite](https://github.com/litvinov99/mini-projects/tree/main/search%20server%20lite) - модели индексирования и поиска с ранжированием TF-IDF в текстах с фильтрацией по предикатам, поддержкой минус-словами, статусами и кастомными рейтингами
 - [Image converter](https://github.com/litvinov99/mini-projects/tree/main/image%20converter) - библиотека для загрузки, сохранения и конвертации растровых изображений с поддержкой форматов JPEG, PPM и BMP
 - [JSON/XML-file reader](https://github.com/litvinov99/mini-projects/tree/main/simple%20JSON%2C%20XML-file%20reader), 
 [INI-file reader](https://github.com/litvinov99/mini-projects/tree/main/simple%20INI-file%20reader) - парсеры конфигурационных файлов, реализованный без сторонних библиотек
