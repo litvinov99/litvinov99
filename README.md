@@ -26,10 +26,10 @@
 
 ## 📌 Проекты
 - [Document Signing Service](https://github.com/litvinov99/document-signing-service) - сервис для электронного подписания документа соглашения простой электронной подписью, включая генерацию PDF файла соглашения, SMS-аутентификацию, вычисления хэша методанных подписания и наложение цифрового штампа на документ
-- [Load Tester](https://github.com/litvinov99/load_tester) - утилита нагрузочного тестирования HTTP API микросервисов
 - [Multithreaded logger](https://github.com/litvinov99/multithreaded-logger) - многопоточный асинхронный логгер
+- [Html to pdf converter](https://github.com/litvinov99/html-to-pdf-converter) - многопоточный асинхронный конвертер HTML в PDF
+- [Load Tester](https://github.com/litvinov99/load_tester) - утилита нагрузочного тестирования HTTP API микросервисов
 - [Test runner](https://github.com/litvinov99/mini-projects/tree/main/test%20runner) - мини-фреймворк для юнит-тестирования
-(макросы для удобного API, SFINAE-подобный подход, exception handling, RAII и деструктор для контроля завершения)
 - [image converter](https://github.com/litvinov99/mini-projects/tree/main/image%20converter) - библиотека для загрузки, сохранения и конвертации растровых изображений с поддержкой форматов JPEG, PPM и BMP
 - [JSON/XML-file reader](https://github.com/litvinov99/mini-projects/tree/main/simple%20JSON%2C%20XML-file%20reader), 
 [INI-file reader](https://github.com/litvinov99/mini-projects/tree/main/simple%20INI-file%20reader) - парсеры конфигурационных файлов, реализованный без сторонних библиотек
@@ -39,7 +39,6 @@
 [vector with smart pointers](https://github.com/litvinov99/mini-projects/blob/main/simple%20vector%20more%20complicated%20version/raw_memory.h), 
 [single linked list](https://github.com/litvinov99/mini-projects/blob/main/single%20linked%20list/single-linked-list.h), 
 [hash map](https://github.com/litvinov99/mini-projects/blob/main/hash%20table%20class/main.cpp) - упрощенные реализации классических структур данных
-(API совместимое с STL, шаблонное программирование, RAII и безопасное поведение, exception handling)
 - [остальные проекты с описанием](https://github.com/litvinov99/mini-projects)
 
 ## 📫 Контакты
