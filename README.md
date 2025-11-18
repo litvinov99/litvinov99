@@ -22,11 +22,11 @@
 - Подходы: ООП, SOLID, RAII, Templates, constexpr-if, multithreading, move-семантика, perfect forwarding, exception handling
 
 ## Проекты
-- [Document Signing Service](https://github.com/litvinov99/document-signing-service) - сервис автоматизации подписания юридических документов простой электронной подписью, включая генерацию PDF-соглашений с динамическими шаблонами, SMS-аутентификацию, вычисления хэша методанных подписания и наложение цифрового штампа на документ
+- [Document Signing Service](https://github.com/litvinov99/document-signing-service) - сервис автоматизации подписания документов простой электронной подписью, включая генерацию PDF-соглашений с динамическими шаблонами, SMS-аутентификацию, вычисления хэша методанных подписания и наложение цифрового штампа на документ
 - [Multithreaded logger](https://github.com/litvinov99/multithreaded-logger) - многопоточный асинхронный логгер
 - [Html to pdf converter](https://github.com/litvinov99/html-to-pdf-converter) - многопоточный асинхронный конвертер HTML в PDF
 - [Load Tester](https://github.com/litvinov99/load_tester) - утилита нагрузочного тестирования HTTP API микросервисов
-- [ExploitDB monitor](https://github.com/litvinov99/exploitdb-monitor) - компонент для мониторинга новых уязвимостей из Exploit Database, использует userver framework
+- [Cve-monitor](https://github.com/litvinov99/cve-monitor) - компоненты для мониторинга новых уязвимостей из ExploitDB и FSTEK, использует userver framework
 - [Test runner](https://github.com/litvinov99/mini-projects/tree/main/test%20runner) - мини-фреймворк для юнит-тестирования
 - [Search system](https://github.com/litvinov99/mini-projects/tree/main/search%20server), 
   [Search system Lite](https://github.com/litvinov99/mini-projects/tree/main/search%20server%20lite) - модели индексирования и поиска с ранжированием TF-IDF в текстах с фильтрацией по предикатам, поддержкой минус-словами, статусами и кастомными рейтингами
