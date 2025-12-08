@@ -13,14 +13,6 @@
 
 В фокусе интересов — системное программирование, алгоритмы и производительность. Стремлюсь к позиции, где можно расти в команде, писать качественный код и работать с реальными инженерными задачами.
 
-## Технологии и инструменты
-- Язык: C++17/20 (STL, RAII, Multithreading, Templates, Move semantics), Python 3 (prototyping, scripts)
-- Библиотеки и фреймворки: Standard Library + STL, Boost, Google Test
-- Сборка и компиляторы: CMake, g++, clang, MSVC
-- Инструменты и инфраструктура: Git (GitHub/GitLab), CI/CD (GitHub Actions/GitLab CI), Docker
-- Тестирование и отладка: gtest/gmock, GDB, Valgrind, Sanitizers
-- Подходы: ООП, SOLID, RAII, Templates, constexpr-if, multithreading, move-семантика, perfect forwarding, exception handling
-
 ## Проекты
 - [Document Signing Service](https://github.com/litvinov99/document-signing-service) - сервис автоматизации подписания документов простой электронной подписью, включая генерацию PDF-соглашений с динамическими шаблонами, SMS-аутентификацию, вычисления хэша методанных подписания и наложение цифрового штампа на документ
 - [Cve-monitor](https://github.com/litvinov99/cve-parser) - асинхронный сервис мониторинга и парсинга новых уязвимостей из ExploitDB, FSTEK, NUCLEI, CVE, спроектированный на userver framework
@@ -38,6 +30,14 @@
 [Single linked list](https://github.com/litvinov99/mini-projects/blob/main/single%20linked%20list/single-linked-list.h), 
 [Hash map](https://github.com/litvinov99/mini-projects/blob/main/hash%20table%20class/main.cpp) - упрощенные реализации классических структур данных
 - [остальные проекты с описанием](https://github.com/litvinov99/mini-projects)
+
+## Технологии и инструменты
+- Язык: C++17/20 (STL, RAII, Multithreading, Templates, Move semantics), Python 3 (prototyping, scripts)
+- Библиотеки и фреймворки: Standard Library + STL, Boost, Google Test
+- Сборка и компиляторы: CMake, g++, clang, MSVC
+- Инструменты и инфраструктура: Git (GitHub/GitLab), CI/CD (GitHub Actions/GitLab CI), Docker
+- Тестирование и отладка: gtest/gmock, GDB, Valgrind, Sanitizers
+- Подходы: ООП, SOLID, RAII, Templates, constexpr-if, multithreading, move-семантика, perfect forwarding, exception handling
 
 ## 📫 Контакты
 - email: litvinovkirand@mail.ru
