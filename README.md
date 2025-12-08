@@ -23,10 +23,10 @@
 
 ## Проекты
 - [Document Signing Service](https://github.com/litvinov99/document-signing-service) - сервис автоматизации подписания документов простой электронной подписью, включая генерацию PDF-соглашений с динамическими шаблонами, SMS-аутентификацию, вычисления хэша методанных подписания и наложение цифрового штампа на документ
+- [Cve-monitor](https://github.com/litvinov99/cve-parser) - асинхронный сервис мониторинга и парсинга новых уязвимостей из ExploitDB, FSTEK, NUCLEI, CVE, спроектированный на userver framework
 - [Multithreaded logger](https://github.com/litvinov99/multithreaded-logger) - многопоточный асинхронный логгер
 - [Html to pdf converter](https://github.com/litvinov99/html-to-pdf-converter) - многопоточный асинхронный конвертер HTML в PDF
 - [Load Tester](https://github.com/litvinov99/load_tester) - утилита нагрузочного тестирования HTTP API микросервисов
-- [Cve-monitor](https://github.com/litvinov99/cve-monitor) - компоненты для мониторинга новых уязвимостей из ExploitDB и FSTEK, использует userver framework
 - [Test runner](https://github.com/litvinov99/mini-projects/tree/main/test%20runner) - мини-фреймворк для юнит-тестирования
 - [Search system](https://github.com/litvinov99/mini-projects/tree/main/search%20server), 
   [Search system Lite](https://github.com/litvinov99/mini-projects/tree/main/search%20server%20lite) - модели индексирования и поиска с ранжированием TF-IDF в текстах с фильтрацией по предикатам, поддержкой минус-словами, статусами и кастомными рейтингами
